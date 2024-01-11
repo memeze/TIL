@@ -1,7 +1,7 @@
 # Lifecycle (생명주기)
 
-
 ## Activity Lifecycle
+![activity lifecycle](./android_activity_lifecycle.png)
 
 ### onCreate()
 - 액티비티가 생성될 때 실행됩니다.
@@ -34,6 +34,8 @@
 ### onRestart()
 - 유저의 액션에 따라 해당 Activity 가 홤녀에서 벗어났다가 다시 불러왔을 때 호출됩니다.
 - `onStop -> onRestart -> onStart` 순서대로 호출됩니다.
+
+---
 
 ### 특정 상황에서의 lifecycle
 #### [1] `A` Activity 실행
