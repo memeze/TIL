@@ -61,6 +61,17 @@
 6. `B` onStop
 7. `B` onDestroy
 
+#### [4] `A` Activity 회전
+1. onCreate
+2. onStart
+3. onResume
+4. onPause
+5. onStop
+6. onDestroy
+7. onCreate
+8. onStart
+9. onResume
+
 ---
 
 ## Fragment Lifecycle
