@@ -12,6 +12,7 @@
 
 ## Kotlin
 - [가시제어자 (Visibility modifiers)](https://github.com/memeze/TIL/blob/main/Kotlin/VisibilityModifiers.md)
+- [범위 지정 함수 (Scope function)](https://github.com/memeze/TIL/blob/main/Kotlin/ScopeFunction.md)
 
 ## 자료구조
 - [배열 (Array)](https://github.com/memeze/til/blob/main/DataStructure/array.md)
