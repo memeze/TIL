@@ -16,3 +16,8 @@ public > protected > default > private
 
 ### ◼️ private
 - 해당 클래스 내에서만 접근 가능
+
+</br>
+
+---  
+[Kotlin 의 가시제어자](https://github.com/memeze/TIL/blob/main/Kotlin/VisibilityModifiers.md)
