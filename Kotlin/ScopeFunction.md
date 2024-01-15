@@ -42,4 +42,4 @@ public inline fun <T, R> with(receiver: T, block: T.() -> R): R
 ```
 - receiver 로 암시적 전달
 - block 마지막 줄 return
-- ex) `run`과 비슷하지만 객체를 파라미터로 받아서 사용
+- `run`과 비슷하지만 객체를 파라미터로 받아서 사용
