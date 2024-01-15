@@ -17,3 +17,8 @@ public > internal > protected > private
 
 ### ◼️ private
 - 해당 파일(.kt) 또는 클래스 내에서만 접근 가능
+
+</br>
+
+---  
+[Java 의 접근제어자](https://github.com/memeze/TIL/blob/main/Java/AccessModifiers.md)
