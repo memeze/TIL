@@ -8,6 +8,7 @@
 - [메모리 구조와 프로그램 실행](https://github.com/memeze/TIL/blob/main/Android/Memory.md)
 
 ## Java
+- [객체 지향 프로그래밍](https://github.com/memeze/TIL/blob/main/Java/oop.md)
 - [접근제어자 (Access modifiers)](https://github.com/memeze/TIL/blob/main/Java/AccessModifiers.md)
 
 ## Kotlin
