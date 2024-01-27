@@ -10,10 +10,12 @@
 ## Java
 - [객체 지향 프로그래밍](https://github.com/memeze/TIL/blob/main/Java/oop.md)
 - [접근제어자 (Access modifiers)](https://github.com/memeze/TIL/blob/main/Java/AccessModifiers.md)
+- [자바의 동등성](https://github.com/memeze/TIL/blob/main/Java/equality.md)
 
 ## Kotlin
 - [가시제어자 (Visibility modifiers)](https://github.com/memeze/TIL/blob/main/Kotlin/VisibilityModifiers.md)
 - [범위 지정 함수 (Scope function)](https://github.com/memeze/TIL/blob/main/Kotlin/ScopeFunction.md)
+- [코틀린의 동등성](https://github.com/memeze/TIL/blob/main/Kotlin/equality.md)
 
 ## 자료구조
 - [배열 (Array)](https://github.com/memeze/til/blob/main/DataStructure/array.md)
