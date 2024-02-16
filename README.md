@@ -13,6 +13,7 @@
 - [자바의 동등성](https://github.com/memeze/TIL/blob/main/Java/equality.md)
 
 ## Kotlin
+- [데이터 클래스 (Data class)](https://github.com/memeze/TIL/blob/main/Kotlin/DataClass.md)
 - [가시제어자 (Visibility modifiers)](https://github.com/memeze/TIL/blob/main/Kotlin/VisibilityModifiers.md)
 - [범위 지정 함수 (Scope function)](https://github.com/memeze/TIL/blob/main/Kotlin/ScopeFunction.md)
 - [코틀린의 동등성](https://github.com/memeze/TIL/blob/main/Kotlin/equality.md)
