@@ -35,7 +35,7 @@ public inline fun <T> T.apply(block: T.() -> Unit): T
 ```
 - receiver 로 암시적 전달
 - 수신 객체 자체를 return 한다.
-- ex) 객체에 무언가를 적용할 때 사용한다. (객체 생성 시점에서 초기화 할 때 유용)
+- ex) 객체에 무언가를 적용할 때 사용한다. (객체 생성 시점에서 초기화 할 때 유용)
   ```kotlin
   Person().apply {
     age = 30,
