@@ -1,4 +1,4 @@
-# 메모리 구조와 프로그램 실행
+# 메모리 구조
 ![Android memory](./android_memory.png)
 
 ## 코드 영역
