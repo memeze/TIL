@@ -21,6 +21,7 @@
 - [코틀린의 동등성](https://github.com/memeze/TIL/blob/main/Kotlin/equality.md)
 
 ## Coroutines
+- [스레드와 코루틴의 차이점](https://github.com/memeze/TIL/blob/main/Coroutines/ThreadCoroutines.md)
 - [코루틴 빌더 (CoroutineBuilder)](https://github.com/memeze/TIL/blob/main/Coroutines/CoroutineBuilder.md)
 - [코루틴 컨텍스트 (CoroutineContext)](https://github.com/memeze/TIL/blob/main/Coroutines/CoroutineContext.md)
 - [코루틴 스코프 (CoroutineScope)](https://github.com/memeze/TIL/blob/main/Coroutines/CoroutineScope.md)
