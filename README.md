@@ -33,6 +33,7 @@
 ## 자료구조
 - [배열 (Array)](https://github.com/memeze/til/blob/main/DataStructure/array.md)
 - [연결리스트 (Linked List)](https://github.com/memeze/til/blob/main/DataStructure/linkedlist.md)
+- [해시 (Hash)](https://github.com/memeze/TIL/blob/main/DataStructure/Hash.md)
 
 ## CS
 - [프로세스와 스레드](https://github.com/memeze/til/blob/main/CS/ProcessThread.md)
