@@ -1,4 +1,6 @@
-# Lifecycle (생명주기)
+# 📚 Lifecycle (생명주기)
+
+</br>
 
 ## Activity Lifecycle
 ![activity lifecycle](./android_activity_lifecycle.png)
@@ -17,7 +19,7 @@
 - 해당 Activity 가 foreground process 를 떠나있을 때 호출됩니다.  
   (상황에 따라 Activity 가 여전히 사용자에게 보이는 경우가 있음)
 - UI 관련 리소스와 작업을 완전히 해제할 경우는 onPause 를 사용하지 않는 것이 좋습니다.
-- 일부 Activity 가 보이는 상황에서 다시 Activity 가 포커스를 찾았을 때,
+- 일부 Activity 가 보이는 상황에서 다시 Activity 가 포커스를 찾았을 때, onResume 이 됩니다.
 
 ### onStop()
 - 기존 Activity 가 아예 화면에서 벗어나면 호출됩니다.
@@ -72,7 +74,7 @@
 8. onStart
 9. onResume
 
----
+</br></br>
 
 ## Fragment Lifecycle
 Framgnet 의 Lifecycle 은 다음과 같이 일반 lifecycle 형태와 ViewLifecycle 상태로 나뉩니다.
