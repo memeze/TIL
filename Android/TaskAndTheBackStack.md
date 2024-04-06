@@ -1,4 +1,6 @@
-# Task 및 BackStack(백스택) 이해
+# 📚 Task 및 BackStack(백스택) 이해
+
+</br>
 
 ## Launch mode (실행 모드)
 ### manifest 파일 사용
@@ -47,7 +49,8 @@
 - `FLAG_ACTIVITY_CLEAR_TOP` 은 `FLAG_ACTIVITY_NEW_TASK` 와 함께 가장 자주 사용됩니다.  
   (이러한 플래그를 함께 사용하면 또 다른 태스크에 있는 기존 액티비티를 찾아 인텐트에 응답할 수 있는 위치에 액티비티를 넣을 수 있습니다.)
 ---
-</br>  
+
+</br></br> 
 
 ## 어피티니 처리
 - 기본적으로 동일한 앱의 모든 액티비티는 동일한 태스크 안에 있습니다.
