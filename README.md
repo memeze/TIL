@@ -39,4 +39,4 @@
 - [프로세스와 스레드](https://github.com/memeze/til/blob/main/CS/ProcessThread.md)
 
 ## ETC.
-- 커밋 스타일 가이드
+- [커밋 스타일 가이드](https://github.com/memeze/minimal-guidelines/blob/main/git%2Fcommit_message.md)
