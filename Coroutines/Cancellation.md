@@ -1,2 +1,2 @@
-# 코루틴 취소 (Cancellation)
+# 📚 코루틴 취소 (Cancellation)
 
